@@ -27,14 +27,6 @@
 		</dependency>
 
 		<dependency>
-
-		</dependency>
-			<groupID>com.github.ulisesbocchio</groupId>
-			<artifactId>jasypt-springboot-starter</artifactId>
-			<version>3.0.3</version>
-		</dependecy>
-
-		<dependency>
 			<groupId>org.postgresql</groupId>
 			<artifactId>postgresql</artifactId>
 			<scope>runtime</scope>
